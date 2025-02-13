@@ -1,0 +1,1 @@
+import{L as a,a as r}from"./list-item-3-tsyuIyuP.js";import{c as s,w as o,o as i,a as n}from"./index-Q7A_jq8W.js";import"./IconBack-LXJE6fE6.js";const x={__name:"NewEnergy",setup(c){const e=[{src:r,text:"光储一体化建设投资",detailPageUrl:"/new-energy-1"}];return(p,t)=>(i(),s(a,{ListData:e},{title:o(()=>t[0]||(t[0]=[n(" 新能源 ")])),_:1}))}};export{x as default};
